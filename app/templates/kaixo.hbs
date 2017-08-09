@@ -1,5 +1,8 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
 
-{{outlet}}
+<h2>Tech Stack!</h2>
+
+<ul>
+  {{#each model as |tech|}}
+    <li>{{tech}}</li>
+  {{/each}}
+</ul>
