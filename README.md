@@ -1,7 +1,17 @@
 # ember-hasiera
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Ember proiektu adibidea.
+
+# Edukiak Sortu
+```
+ember generate template kaixo
+```
+
+Edo
+```
+ ember generate route kaixo
+```
+Honek, ruta, templatea eta guzti sortzen du.
 
 ## Prerequisites
 
@@ -18,7 +28,7 @@ You will need the following things properly installed on your computer.
 * `cd ember-hasiera`
 * `npm install`
 
-## Running / Development
+## Martxan jarri
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
